@@ -10,10 +10,6 @@ Standalone React + Vite template for creating a cinematic midnight event page wi
 
 This copy was created from a personal project and sanitized for generic reuse.
 
-## Project location
-
-`D:\Projects\midnight-event-fireworks-template`
-
 ## Quick start
 
 1. Install dependencies:
